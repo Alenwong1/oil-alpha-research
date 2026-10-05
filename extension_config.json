@@ -1,0 +1,17 @@
+{
+  "start_year": 2010,
+  "last_development_year": 2025,
+  "development_start": "2017-01-01",
+  "selection_end": "2026-01-01",
+  "reserved_start": "2026-01-01",
+  "reserved_end_exclusive": "2026-10-03",
+  "primary_cost_bps": 5,
+  "cost_bps": [0, 5, 10, 20],
+  "annual_vol_target": 0.15,
+  "seed": 42,
+  "sharpe_target": 1.5,
+  "curve_series": ["DGS3MO", "DGS2", "DGS10"],
+  "additional_tickers": ["USL", "BNO", "UNG", "DBC", "IEF", "SHY", "TIP", "^VIX", "^OVX"],
+  "news_capture_sampling": "earliest capture per calendar month",
+  "minimum_train_rows": 900
+}

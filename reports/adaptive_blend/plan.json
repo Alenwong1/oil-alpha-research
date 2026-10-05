@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-10-05T21:15:03.293254+00:00",
+  "adaptive_fractions": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    1
+  ],
+  "primary_selection": "2017\u20132025 cash-excess Sharpe",
+  "requested_subset": "2018\u20132024 inclusive, report both cash-excess and zero-RF Sharpe; retrospective subset selection is separate",
+  "costs": "5bps turnover, 3% borrow, cash+2% leveraged financing, no short rebate",
+  "method": "Mix target USO positions, net before costs, simulate full period then slice same daily ledger. No fresh entry/exit at subset boundaries. Hold the common macro/news and technical components fixed; only inventory model mix changes. No retraining. 2026 unopened.",
+  "input_hashes": {
+    "results/time_series/ridge_h21_portfolio_ledger.csv": "5c6efcde1fa931dc1668f7798f6e287a6cc3eec373b2efd49fd5d6f7661993fc",
+    "results/time_series/adaptive_h5_portfolio_ledger.csv": "84bf1a172de41954c3b66a32d0e39c0b73c61a0b0b4d991c5c0decdf45418b64",
+    "results/extension/news_refresh/model_input_outcomes.csv": "4791d5dac9605646d45b0f6f293f0cfc90ba1634e259156cc438e871cb41f969"
+  },
+  "code_sha256": "ca9e11482fcfaec45f56c9621a10996bc44fac870278889179ecb631a6928a61"
+}

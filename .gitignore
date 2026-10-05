@@ -1,0 +1,23 @@
+# Local environments and build artifacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+.DS_Store
+.mpl-cache/
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Provider data, headlines, daily derived data and immutable local runs
+/data/
+/results/
+# Curated aggregate results live in reports/ and are committed explicitly.

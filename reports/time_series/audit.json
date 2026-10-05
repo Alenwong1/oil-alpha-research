@@ -1,0 +1,10 @@
+{
+  "input_hashes_verified": 7,
+  "code_hashes_verified": 10,
+  "availability_comparisons": 3622,
+  "purged_training_folds": 254,
+  "primary_portfolios": 6,
+  "sessions_each": 2260,
+  "control_max_absolute_return_difference": 3.0010716134398763e-16,
+  "no_2026_evaluation": true
+}

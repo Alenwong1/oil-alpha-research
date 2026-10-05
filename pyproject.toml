@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oil-research"
+version = "0.1.0"
+description = "Reproducible daily USO forecasting and execution-aware backtesting"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26", "pandas>=2.2", "scikit-learn>=1.5", "matplotlib>=3.9", "yfinance>=0.2.54", "threadpoolctl>=3.5", "requests>=2.31", "beautifulsoup4>=4.12", "openpyxl>=3.1", "xlrd>=2.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "black==26.10.0"]
+
+[project.scripts]
+oil-research = "oil_research.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["oil_research*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]

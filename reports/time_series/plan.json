@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-10-05T21:10:33.420876+00:00",
+  "primary_configurations": 6,
+  "protocol_sha256": "55e0e508e764b11d26480e96fe77b15b64941aba6b1d7be5a9a09b9f120e0cc3",
+  "input_hashes": {
+    "results/scarcity/features.csv": "0871e7d9a642007b0ffe02236534629bfe8b1cd46b76235fea27419df682ce7d",
+    "results/scarcity/lineage.csv": "4079eb97950ec470b63a15af16746d427cd549f2e5e3f90166c64bc0ce1dfe02",
+    "results/extension/news_refresh/model_input_outcomes.csv": "4791d5dac9605646d45b0f6f293f0cfc90ba1634e259156cc438e871cb41f969",
+    "results/extension/horizons_repaired/selected_development_ledger.csv": "5eb6a7aea9201106f251933a6cc9b19bb9b3ba9808cff30d826730bc7cae9f6c",
+    "results/diversification/source_snapshots/diversifier2_ledger.csv": "e393f504184f8cf05422c8be0dac09c456c408f383ab9c3ff2aff60cc16adc00",
+    "results/scarcity/existing_h5_portfolio_ledger.csv": "beb9a74618d924e1248b24f5714a674afdc10a5710f2fbe1e83056ad41e18877",
+    "results/scarcity/existing_h21_portfolio_ledger.csv": "9f015f18c8e95b817f3c6ef4615c50f380542203296358b35154a91702aefaa2"
+  },
+  "source_hashes": {
+    "time_series.py": "f46578d39e2556e7a8eb94ed816aaac7f4c55b21c46581a5140563ee1da5216c",
+    "scarcity.py": "907a77415e666f88b99b28589806a28a81130e16b6e392e7dec14a97695e43fa",
+    "weekly_features.py": "7d4edc496454eca95d175609966cb73589e8c2afb3eb69358b44c138ff575758",
+    "weekly_experiments.py": "cfc176500e7e1154630efbda30dbecd790305ae8fb072910246fea1d86a99100",
+    "refinement.py": "a023482a795d6499d63cc92d7947d057e2e2b006d28ef711bd2bab5e7f716d65",
+    "extension_experiments.py": "00d2c09d97c99b38a2d250100122b1b7923439ca68624b2e099b887d82fd9e79",
+    "extension_leverage.py": "29a63ea0d715e13cf34b59a5441e8cd1f46b13f7d902e9ddea2f44d5f359e32d",
+    "extension_features.py": "e2ebc74c7caf322362a2bf6ce08c8b42f0ff457cbb26276463384b6fc4f6c662",
+    "backtest.py": "8e263fe381f3a3daf1db616f64522845f0aa47f7824b914922a3b62fe572110f",
+    "data.py": "1258abfc6b57d56426bbe88527f4aa8374263c90590bb2b25eb359ea25b92cc4"
+  },
+  "warning": "Repeated 2017\u20132025 development selection; no 2026 evaluation"
+}

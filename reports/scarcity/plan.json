@@ -1,0 +1,23 @@
+{
+  "created_at": "2026-10-05T21:04:27.324163+00:00",
+  "primary_configurations": 6,
+  "protocol_sha256": "57a7791667c0d9408a3f3c4522bbe74d73c8386c684566dd1077ce2ce256772f",
+  "input_hashes": {
+    "data/weekly/eia_weekly.csv": "2d587c00815e35fcec2bfc025f3f4f0ec116253238b69fe0b11aeab97935c22d",
+    "results/refinement/innovation_features.csv": "0a5dcb653ddf8d370b78324e614f9b0c32f869d3a387d588d88a75c7907790b8",
+    "results/extension/horizons_repaired/selected_development_ledger.csv": "5eb6a7aea9201106f251933a6cc9b19bb9b3ba9808cff30d826730bc7cae9f6c",
+    "results/diversification/source_snapshots/diversifier2_ledger.csv": "e393f504184f8cf05422c8be0dac09c456c408f383ab9c3ff2aff60cc16adc00",
+    "results/extension/news_refresh/model_input_outcomes.csv": "4791d5dac9605646d45b0f6f293f0cfc90ba1634e259156cc438e871cb41f969"
+  },
+  "source_hashes": {
+    "scarcity.py": "907a77415e666f88b99b28589806a28a81130e16b6e392e7dec14a97695e43fa",
+    "weekly_features.py": "7d4edc496454eca95d175609966cb73589e8c2afb3eb69358b44c138ff575758",
+    "weekly_experiments.py": "cfc176500e7e1154630efbda30dbecd790305ae8fb072910246fea1d86a99100",
+    "refinement.py": "a023482a795d6499d63cc92d7947d057e2e2b006d28ef711bd2bab5e7f716d65",
+    "extension_experiments.py": "00d2c09d97c99b38a2d250100122b1b7923439ca68624b2e099b887d82fd9e79",
+    "extension_leverage.py": "29a63ea0d715e13cf34b59a5441e8cd1f46b13f7d902e9ddea2f44d5f359e32d",
+    "extension_features.py": "e2ebc74c7caf322362a2bf6ce08c8b42f0ff457cbb26276463384b6fc4f6c662",
+    "backtest.py": "8e263fe381f3a3daf1db616f64522845f0aa47f7824b914922a3b62fe572110f"
+  },
+  "warning": "2017\u20132025 development selection; no 2026 evaluation"
+}

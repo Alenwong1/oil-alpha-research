@@ -1,0 +1,138 @@
+{
+  "refinement/ranking.csv": {
+    "source": "results/refinement/ranking.csv",
+    "sha256": "8e8e589e5d07856fa88b605e18ee8e701d16607a789bee06da58574c308d8a25"
+  },
+  "refinement/annual.csv": {
+    "source": "results/refinement/annual.csv",
+    "sha256": "870eaf29404fd5a80659e8e27a9216d9631c12dfcd72b4ff1a3ff28b77ff809b"
+  },
+  "refinement/yearly_comparison.csv": {
+    "source": "results/refinement/yearly_comparison.csv",
+    "sha256": "cb6c3ac040025bfe861c918d757793444796e5b3b98384ffa207878accbdb171"
+  },
+  "refinement/selected_cost_stress.csv": {
+    "source": "results/refinement/selected_cost_stress.csv",
+    "sha256": "e5c868acf714bc8fdafe42cd22127a1062536cdf6814133e9bf64c5b9ed49d04"
+  },
+  "refinement/plan.json": {
+    "source": "results/refinement/plan.json",
+    "sha256": "2789f300c11649ff756e2ed57608c809307634499ffe722d7a7f6176e8527703"
+  },
+  "diversification/ranking.csv": {
+    "source": "results/diversification/ranking.csv",
+    "sha256": "7edeec84ee1aaa9ce1b6f50226dba91a648e9593ae6f88477e3ad937429c41ff"
+  },
+  "diversification/annual.csv": {
+    "source": "results/diversification/annual.csv",
+    "sha256": "b78e4bbf7904e8f415140dda573497baf54c971da727ec0246072c67da287702"
+  },
+  "diversification/yearly_comparison.csv": {
+    "source": "results/diversification/yearly_comparison.csv",
+    "sha256": "4262a08d7c440d8bbdb2333da2d2bbbaac8929c1aae226a3c29c6d04c36a7a45"
+  },
+  "diversification/selected_cost_stress.csv": {
+    "source": "results/diversification/selected_cost_stress.csv",
+    "sha256": "1391f76ad6dad361cc4c7709b2dbb3db4d9e9730876ebfa66a097f8b3bb0d515"
+  },
+  "diversification/plan.json": {
+    "source": "results/diversification/plan.json",
+    "sha256": "47d2994ccb464755c6fa3d4b58a07ddc0976bc27aacd7f8dfcaa575e75fb7c89"
+  },
+  "scarcity/ranking.csv": {
+    "source": "results/scarcity/ranking.csv",
+    "sha256": "617af4875209405ae38bdf31c4232e432d960dc7b45b3b6a0fb119fd005ffac9"
+  },
+  "scarcity/metrics.csv": {
+    "source": "results/scarcity/metrics.csv",
+    "sha256": "e5ad1a3eb6edd72350fb34641c2f470984e471a78a2919ffc83255d0762737cd"
+  },
+  "scarcity/annual.csv": {
+    "source": "results/scarcity/annual.csv",
+    "sha256": "90eb304a95748495dd97e4237002f9bf965d098328452d2969bd656790602c6a"
+  },
+  "scarcity/yearly_comparison.csv": {
+    "source": "results/scarcity/yearly_comparison.csv",
+    "sha256": "b8dd5d148b8a1946aaf2449787775395064512cd409535075fad45a2984bc149"
+  },
+  "scarcity/coverage.csv": {
+    "source": "results/scarcity/coverage.csv",
+    "sha256": "cd052a84605c879f684cf8f07edee11f76e8a9eaa9cfb1afc34987180e8b5489"
+  },
+  "scarcity/bootstrap.csv": {
+    "source": "results/scarcity/bootstrap.csv",
+    "sha256": "3f5d6196f42854ac2cbd0fad1d44a0534af841daef4fc51ee986235bbc0b8982"
+  },
+  "scarcity/selected_cost_stress.csv": {
+    "source": "results/scarcity/selected_cost_stress.csv",
+    "sha256": "7ae38befc975ee8383fe8ffecb10c2fd7d1556dd33d196605ae0dbb45726a318"
+  },
+  "scarcity/audit.json": {
+    "source": "results/scarcity/audit.json",
+    "sha256": "06bb74f64f6d1a575428b81d4bb7e739be61957fbb8289f37a24617c9619032b"
+  },
+  "scarcity/plan.json": {
+    "source": "results/scarcity/plan.json",
+    "sha256": "be1e7b7bea0f61362665d8041ecab069dd1cda949bcd636bf9b2e68af0713a11"
+  },
+  "time_series/ranking.csv": {
+    "source": "results/time_series/ranking.csv",
+    "sha256": "c167f0af4dc038045c2cfbf2479530a9aaa6f1ef4de96463fe2251003ae03c0b"
+  },
+  "time_series/metrics.csv": {
+    "source": "results/time_series/metrics.csv",
+    "sha256": "917f1ce416ab69424f307ff4e8394eda194ff6b218d5e99a1e1371a5b3269026"
+  },
+  "time_series/annual.csv": {
+    "source": "results/time_series/annual.csv",
+    "sha256": "f766b019aaa32bbfada0ca86cc22b1725f771ec86ecbd0519c717a3c175265e4"
+  },
+  "time_series/yearly_comparison.csv": {
+    "source": "results/time_series/yearly_comparison.csv",
+    "sha256": "8c0a6c29ecd9b8533f1aef32fd37e48e8f215e20d7d26be028ec125b2629d5eb"
+  },
+  "time_series/forecast_accuracy.csv": {
+    "source": "results/time_series/forecast_accuracy.csv",
+    "sha256": "d6edc384d13fb4c200fd3a60a5851f855d9a878cbb2881bc5bdebcaff522bce4"
+  },
+  "time_series/coverage.csv": {
+    "source": "results/time_series/coverage.csv",
+    "sha256": "e8bab977a1ae4ba9c8787b05c8e22d4c714f2c64ad2ce5a4a327b276ddca709f"
+  },
+  "time_series/bootstrap.csv": {
+    "source": "results/time_series/bootstrap.csv",
+    "sha256": "256ec16e0a78b99f9cffef4c59998535e5030081cbbb3a89da95c8eba975a086"
+  },
+  "time_series/selected_cost_stress.csv": {
+    "source": "results/time_series/selected_cost_stress.csv",
+    "sha256": "4bb2b8435cc289e46b3fca538054c0bcd7bb55030d8a78fc6304a242084b83a2"
+  },
+  "time_series/audit.json": {
+    "source": "results/time_series/audit.json",
+    "sha256": "0a50f0efb93c3c076edd538bc7fb2e019b04cb35cfb98bab6a883d07e40a2c75"
+  },
+  "time_series/plan.json": {
+    "source": "results/time_series/plan.json",
+    "sha256": "66de3a126269a7e9b32f05c93ff520701b31181d67e358ba14ba0b9ffc4e9fb8"
+  },
+  "adaptive_blend/ranking.csv": {
+    "source": "results/adaptive_blend/ranking.csv",
+    "sha256": "a11287d275a7e316ecfec1416b7d33b572f766fa3377cf1b3a9258c9ecd9b6e9"
+  },
+  "adaptive_blend/metrics.csv": {
+    "source": "results/adaptive_blend/metrics.csv",
+    "sha256": "49643961238d3593ced1ec50b7b297d93bdf887901391f6bc7bb31769c32aacc"
+  },
+  "adaptive_blend/annual.csv": {
+    "source": "results/adaptive_blend/annual.csv",
+    "sha256": "18bfa56c1fc41ea06e2fd1bf090bb50959ccda0e7c9e273405c237cce7f96a2e"
+  },
+  "adaptive_blend/bootstrap.csv": {
+    "source": "results/adaptive_blend/bootstrap.csv",
+    "sha256": "e0ca84c67d70a6ba0e7cf9dfd83e7109179469967f5227b2c97a251996ceed6b"
+  },
+  "adaptive_blend/plan.json": {
+    "source": "results/adaptive_blend/plan.json",
+    "sha256": "dc21d437a788ded6aa71058266bb380978c34e5e1afca894dfd2a1734a66a999"
+  }
+}

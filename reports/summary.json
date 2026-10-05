@@ -1,0 +1,11 @@
+{
+  "period": "2017\u20132025",
+  "strategy": "50/50 existing and adaptive portfolio mix",
+  "adaptive_fraction": 0.5,
+  "sharpe_zero_rf": 1.7307700699806703,
+  "sharpe_excess": 1.3300339671127055,
+  "cagr": 0.1099741856910057,
+  "max_drawdown": -0.0844157395056428,
+  "selection": "Full-period development cash-excess Sharpe; five fixed allocations including endpoints",
+  "independent_validation": false
+}

@@ -1,0 +1,15 @@
+{
+  "target": "USO",
+  "tickers": ["USO", "XLE", "XOP", "SPY", "TLT", "HYG", "UUP", "GLD"],
+  "data_start": "2010-01-01",
+  "data_end_exclusive": "2026-01-01",
+  "development_start": "2016-01-01",
+  "holdout_start": "2024-01-01",
+  "annual_vol_target": 0.15,
+  "max_weight": 1.0,
+  "cost_bps": [0, 5, 10, 20],
+  "primary_cost_bps": 5,
+  "seed": 42,
+  "bootstrap_repetitions": 1000,
+  "bootstrap_block_length": 20
+}
