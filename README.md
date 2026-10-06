@@ -1,8 +1,7 @@
 # Oil Alpha Research
 
-**Publication-aware oil fundamentals, walk-forward machine learning, and execution-aware USO backtesting.**
 
-A Python research project testing whether inventory surprises, macroeconomic vintages and market signals help forecast oil ETF returns. It combines archived releases with chronological model fitting, conservative information timing and a long/short portfolio simulator.
+Python research project testing whether inventory surprises, macroeconomic vintages and market signals help forecast oil ETF returns. It combines archived releases with chronological model fitting, conservative information timing and a long/short portfolio simulator.
 
 The latest fixed blend produced **1.73 annualized Sharpe using a zero risk-free benchmark**, **11.0% CAGR** and **8.4% maximum drawdown** over **2017–2025**, after modeled transaction, borrowing and financing costs. These are **selected development-backtest results**, not independent validation or live performance. The corresponding cash-excess Sharpe is **1.33**.
 
